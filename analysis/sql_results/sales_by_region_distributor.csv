@@ -1,0 +1,7 @@
+region,distributor_name,retailer_count,total_sales,total_revenue,avg_order_value,revenue_per_retailer
+South,Regional Pharma,4,499,2684124.5,5379.01,671031.13
+North,Metro Distribution,4,539,2679195.0,4970.68,669798.75
+Central,Central Supply Chain,2,312,1484864.0,4759.18,742432.0
+East,Eastern Healthcare,2,265,1318205.0,4974.36,659102.5
+West,Western Wellness,2,258,1252587.5,4854.99,626293.75
+Pan-India,National Distribution,1,127,593549.5,4673.62,593549.5

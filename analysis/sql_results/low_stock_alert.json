@@ -1,0 +1,110 @@
+[
+  {
+    "inventory_id":142,
+    "product_name":"Vitamin D3 1000IU",
+    "category":"Vitamins & Supplements",
+    "retailer_name":"Wellness Express",
+    "city":"Kolkata",
+    "stock_quantity":10,
+    "reorder_level":46,
+    "units_needed":36,
+    "unit_price":200.0,
+    "reorder_cost":7200.0
+  },
+  {
+    "inventory_id":15,
+    "product_name":"Moisturizing Cream",
+    "category":"Skin Care",
+    "retailer_name":"MediCare Pharmacy",
+    "city":"Delhi",
+    "stock_quantity":16,
+    "reorder_level":48,
+    "units_needed":32,
+    "unit_price":280.0,
+    "reorder_cost":8960.0
+  },
+  {
+    "inventory_id":71,
+    "product_name":"Muscle Relaxant Cream",
+    "category":"Pain Relief",
+    "retailer_name":"Local Chemist",
+    "city":"Bangalore",
+    "stock_quantity":16,
+    "reorder_level":48,
+    "units_needed":32,
+    "unit_price":220.0,
+    "reorder_cost":7040.0
+  },
+  {
+    "inventory_id":156,
+    "product_name":"Anti-Acne Gel",
+    "category":"Skin Care",
+    "retailer_name":"Wellness Express",
+    "city":"Kolkata",
+    "stock_quantity":18,
+    "reorder_level":39,
+    "units_needed":21,
+    "unit_price":200.0,
+    "reorder_cost":4200.0
+  },
+  {
+    "inventory_id":109,
+    "product_name":"Ibuprofen 400mg",
+    "category":"Pain Relief",
+    "retailer_name":"Neighborhood Pharmacy",
+    "city":"Mumbai",
+    "stock_quantity":33,
+    "reorder_level":41,
+    "units_needed":8,
+    "unit_price":80.0,
+    "reorder_cost":640.0
+  },
+  {
+    "inventory_id":110,
+    "product_name":"Aspirin 75mg",
+    "category":"Pain Relief",
+    "retailer_name":"Neighborhood Pharmacy",
+    "city":"Mumbai",
+    "stock_quantity":41,
+    "reorder_level":49,
+    "units_needed":8,
+    "unit_price":90.0,
+    "reorder_cost":720.0
+  },
+  {
+    "inventory_id":283,
+    "product_name":"Multivitamin Daily",
+    "category":"Vitamins & Supplements",
+    "retailer_name":"Health Store",
+    "city":"Chandigarh",
+    "stock_quantity":11,
+    "reorder_level":18,
+    "units_needed":7,
+    "unit_price":250.0,
+    "reorder_cost":1750.0
+  },
+  {
+    "inventory_id":151,
+    "product_name":"Muscle Relaxant Cream",
+    "category":"Pain Relief",
+    "retailer_name":"Wellness Express",
+    "city":"Kolkata",
+    "stock_quantity":39,
+    "reorder_level":45,
+    "units_needed":6,
+    "unit_price":220.0,
+    "reorder_cost":1320.0
+  },
+  {
+    "inventory_id":178,
+    "product_name":"Immunity Booster Drink",
+    "category":"Immunity Boosters",
+    "retailer_name":"Ayurveda Store",
+    "city":"Pune",
+    "stock_quantity":20,
+    "reorder_level":24,
+    "units_needed":4,
+    "unit_price":180.0,
+    "reorder_cost":720.0
+  }
+]

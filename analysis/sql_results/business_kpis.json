@@ -1,0 +1,12 @@
+[
+  {
+    "total_transactions":2000,
+    "total_units_sold":51045,
+    "total_revenue":10012525.5,
+    "avg_transaction_value":5006.26,
+    "revenue_per_transaction":5006.26,
+    "active_retailers":15,
+    "products_sold":20,
+    "avg_discount_rate":5.06
+  }
+]

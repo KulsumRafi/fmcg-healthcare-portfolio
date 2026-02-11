@@ -1,0 +1,82 @@
+[
+  {
+    "manufacturer_name":"HealthCare Pharma Ltd",
+    "country":"India",
+    "product_count":5,
+    "total_sales":526,
+    "total_units":13693,
+    "total_revenue":2398761.0,
+    "avg_order_value":4560.38,
+    "revenue_per_product":479752.2
+  },
+  {
+    "manufacturer_name":"Ayurveda Plus",
+    "country":"India",
+    "product_count":3,
+    "total_sales":304,
+    "total_units":7201,
+    "total_revenue":1517146.5,
+    "avg_order_value":4990.61,
+    "revenue_per_product":505715.5
+  },
+  {
+    "manufacturer_name":"Herbal Remedies Inc",
+    "country":"India",
+    "product_count":2,
+    "total_sales":212,
+    "total_units":5403,
+    "total_revenue":1367144.5,
+    "avg_order_value":6448.79,
+    "revenue_per_product":683572.25
+  },
+  {
+    "manufacturer_name":"Global Wellness Corp",
+    "country":"USA",
+    "product_count":3,
+    "total_sales":264,
+    "total_units":6718,
+    "total_revenue":1169071.5,
+    "avg_order_value":4428.3,
+    "revenue_per_product":389690.5
+  },
+  {
+    "manufacturer_name":"Nutrition World",
+    "country":"Germany",
+    "product_count":2,
+    "total_sales":200,
+    "total_units":5152,
+    "total_revenue":993630.0,
+    "avg_order_value":4968.15,
+    "revenue_per_product":496815.0
+  },
+  {
+    "manufacturer_name":"Natural Health Solutions",
+    "country":"India",
+    "product_count":2,
+    "total_sales":193,
+    "total_units":4829,
+    "total_revenue":992466.0,
+    "avg_order_value":5142.31,
+    "revenue_per_product":496233.0
+  },
+  {
+    "manufacturer_name":"Wellness Innovations",
+    "country":"Switzerland",
+    "product_count":2,
+    "total_sales":188,
+    "total_units":4888,
+    "total_revenue":947582.0,
+    "avg_order_value":5040.33,
+    "revenue_per_product":473791.0
+  },
+  {
+    "manufacturer_name":"Biotech Pharma",
+    "country":"USA",
+    "product_count":1,
+    "total_sales":113,
+    "total_units":3161,
+    "total_revenue":626724.0,
+    "avg_order_value":5546.23,
+    "revenue_per_product":626724.0
+  }
+]

@@ -1,0 +1,4 @@
+retailer_type,retailer_count,total_transactions,total_units,total_revenue,avg_transaction_value,revenue_per_retailer
+Chain Pharmacy,7,902,23351,4563906.0,5059.76,651986.57
+Independent,6,808,20599,4063104.5,5028.59,677184.08
+Specialty,2,290,7095,1385515.0,4777.64,692757.5

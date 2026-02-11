@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price,times_sold,total_quantity,total_revenue,avg_order_value
+20,Herbal Immunity Tea,Immunity Boosters,150.0,113,2965,841215.0,7444.38
+18,Immunity Booster Drink,Immunity Boosters,180.0,114,3031,800730.0,7023.95
+19,Zinc Supplement,Immunity Boosters,170.0,118,2732,741080.5,6280.34
+17,Sunscreen SPF 50,Skin Care,320.0,95,2546,645975.0,6799.74
+11,Muscle Relaxant Cream,Pain Relief,220.0,113,3161,626724.0,5546.23
+16,Anti-Acne Gel,Skin Care,200.0,98,2448,608725.0,6211.48
+15,Moisturizing Cream,Skin Care,280.0,91,2328,559750.0,6151.1
+13,Throat Lozenges,Respiratory Health,100.0,99,2438,525929.5,5312.42
+14,Asthma Inhaler,Respiratory Health,450.0,86,2252,518052.0,6023.86
+8,Antacid Tablets,Digestive Health,120.0,109,2988,516438.0,4737.96

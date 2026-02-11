@@ -1,0 +1,202 @@
+[
+  {
+    "product_name":"Digestive Enzymes",
+    "category":"Digestive Health",
+    "retailer_locations":15,
+    "total_stock":5229,
+    "avg_stock_per_location":348.6,
+    "min_stock":108,
+    "max_stock":495,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Cough Syrup",
+    "category":"Respiratory Health",
+    "retailer_locations":15,
+    "total_stock":4828,
+    "avg_stock_per_location":321.87,
+    "min_stock":57,
+    "max_stock":486,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Vitamin C 500mg",
+    "category":"Vitamins & Supplements",
+    "retailer_locations":15,
+    "total_stock":4774,
+    "avg_stock_per_location":318.27,
+    "min_stock":22,
+    "max_stock":500,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Sunscreen SPF 50",
+    "category":"Skin Care",
+    "retailer_locations":15,
+    "total_stock":4229,
+    "avg_stock_per_location":281.93,
+    "min_stock":86,
+    "max_stock":484,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Multivitamin Daily",
+    "category":"Vitamins & Supplements",
+    "retailer_locations":15,
+    "total_stock":4096,
+    "avg_stock_per_location":273.07,
+    "min_stock":11,
+    "max_stock":446,
+    "locations_below_reorder":1
+  },
+  {
+    "product_name":"Herbal Immunity Tea",
+    "category":"Immunity Boosters",
+    "retailer_locations":15,
+    "total_stock":3997,
+    "avg_stock_per_location":266.47,
+    "min_stock":10,
+    "max_stock":477,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Probiotic Capsules",
+    "category":"Digestive Health",
+    "retailer_locations":15,
+    "total_stock":3887,
+    "avg_stock_per_location":259.13,
+    "min_stock":95,
+    "max_stock":494,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Throat Lozenges",
+    "category":"Respiratory Health",
+    "retailer_locations":15,
+    "total_stock":3865,
+    "avg_stock_per_location":257.67,
+    "min_stock":74,
+    "max_stock":431,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Calcium Supplement",
+    "category":"Vitamins & Supplements",
+    "retailer_locations":15,
+    "total_stock":3858,
+    "avg_stock_per_location":257.2,
+    "min_stock":53,
+    "max_stock":486,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Anti-Acne Gel",
+    "category":"Skin Care",
+    "retailer_locations":15,
+    "total_stock":3833,
+    "avg_stock_per_location":255.53,
+    "min_stock":18,
+    "max_stock":492,
+    "locations_below_reorder":1
+  },
+  {
+    "product_name":"Antacid Tablets",
+    "category":"Digestive Health",
+    "retailer_locations":15,
+    "total_stock":3591,
+    "avg_stock_per_location":239.4,
+    "min_stock":40,
+    "max_stock":487,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Zinc Supplement",
+    "category":"Immunity Boosters",
+    "retailer_locations":15,
+    "total_stock":3425,
+    "avg_stock_per_location":228.33,
+    "min_stock":82,
+    "max_stock":387,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Ibuprofen 400mg",
+    "category":"Pain Relief",
+    "retailer_locations":15,
+    "total_stock":3355,
+    "avg_stock_per_location":223.67,
+    "min_stock":33,
+    "max_stock":425,
+    "locations_below_reorder":1
+  },
+  {
+    "product_name":"Aspirin 75mg",
+    "category":"Pain Relief",
+    "retailer_locations":15,
+    "total_stock":3197,
+    "avg_stock_per_location":213.13,
+    "min_stock":41,
+    "max_stock":481,
+    "locations_below_reorder":1
+  },
+  {
+    "product_name":"Asthma Inhaler",
+    "category":"Respiratory Health",
+    "retailer_locations":15,
+    "total_stock":3135,
+    "avg_stock_per_location":209.0,
+    "min_stock":32,
+    "max_stock":488,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Immunity Booster Drink",
+    "category":"Immunity Boosters",
+    "retailer_locations":15,
+    "total_stock":3101,
+    "avg_stock_per_location":206.73,
+    "min_stock":20,
+    "max_stock":490,
+    "locations_below_reorder":1
+  },
+  {
+    "product_name":"Iron Supplement",
+    "category":"Vitamins & Supplements",
+    "retailer_locations":15,
+    "total_stock":2990,
+    "avg_stock_per_location":199.33,
+    "min_stock":61,
+    "max_stock":414,
+    "locations_below_reorder":0
+  },
+  {
+    "product_name":"Muscle Relaxant Cream",
+    "category":"Pain Relief",
+    "retailer_locations":15,
+    "total_stock":2667,
+    "avg_stock_per_location":177.8,
+    "min_stock":16,
+    "max_stock":500,
+    "locations_below_reorder":2
+  },
+  {
+    "product_name":"Vitamin D3 1000IU",
+    "category":"Vitamins & Supplements",
+    "retailer_locations":15,
+    "total_stock":2582,
+    "avg_stock_per_location":172.13,
+    "min_stock":10,
+    "max_stock":495,
+    "locations_below_reorder":1
+  },
+  {
+    "product_name":"Moisturizing Cream",
+    "category":"Skin Care",
+    "retailer_locations":15,
+    "total_stock":2536,
+    "avg_stock_per_location":169.07,
+    "min_stock":16,
+    "max_stock":482,
+    "locations_below_reorder":1
+  }
+]

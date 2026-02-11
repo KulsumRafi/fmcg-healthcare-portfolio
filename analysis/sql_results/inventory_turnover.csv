@@ -1,0 +1,21 @@
+product_id,product_name,category,total_sold,current_stock,turnover_ratio,revenue_generated
+1,Vitamin C 500mg,Vitamins & Supplements,37500,439208,0.0,3921637.5
+2,Vitamin D3 1000IU,Vitamins & Supplements,34110,227216,0.0,3821760.0
+3,Multivitamin Daily,Vitamins & Supplements,36960,434176,0.0,4578307.5
+4,Calcium Supplement,Vitamins & Supplements,39090,405090,0.0,5214825.0
+5,Iron Supplement,Vitamins & Supplements,35280,299000,0.0,5015250.0
+6,Probiotic Capsules,Digestive Health,38400,377039,0.0,5817480.0
+7,Digestive Enzymes,Digestive Health,35715,496755,0.0,5756115.0
+8,Antacid Tablets,Digestive Health,44820,391419,0.0,7746570.0
+9,Ibuprofen 400mg,Pain Relief,32880,301950,0.0,5943532.5
+10,Aspirin 75mg,Pain Relief,40650,335685,0.0,7723950.0
+11,Muscle Relaxant Cream,Pain Relief,47415,301371,0.0,9400860.0
+12,Cough Syrup,Respiratory Health,31755,415208,0.0,6625740.0
+13,Throat Lozenges,Respiratory Health,36570,382635,0.0,7888942.5
+14,Asthma Inhaler,Respiratory Health,33780,269610,0.0,7770780.0
+15,Moisturizing Cream,Skin Care,34920,230776,0.0,8396250.0
+16,Anti-Acne Gel,Skin Care,36720,375634,0.0,9130875.0
+17,Sunscreen SPF 50,Skin Care,38190,401755,0.0,9689625.0
+18,Immunity Booster Drink,Immunity Boosters,45465,353514,0.0,12010950.0
+19,Zinc Supplement,Immunity Boosters,40980,404150,0.0,11116207.5
+20,Herbal Immunity Tea,Immunity Boosters,44475,451661,0.0,12618225.0

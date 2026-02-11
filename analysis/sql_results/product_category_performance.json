@@ -1,0 +1,189 @@
+[
+  {
+    "category":"Respiratory Health",
+    "subcategory":"Cough & Cold",
+    "product_count":2,
+    "transaction_count":185,
+    "total_quantity":4555,
+    "total_revenue":967645.5,
+    "avg_transaction_value":5230.52,
+    "revenue_per_product":483822.75,
+    "market_share":9.66
+  },
+  {
+    "category":"Pain Relief",
+    "subcategory":"Analgesics",
+    "product_count":2,
+    "transaction_count":195,
+    "total_quantity":4902,
+    "total_revenue":911165.5,
+    "avg_transaction_value":4672.64,
+    "revenue_per_product":455582.75,
+    "market_share":9.1
+  },
+  {
+    "category":"Immunity Boosters",
+    "subcategory":"Herbal",
+    "product_count":1,
+    "transaction_count":113,
+    "total_quantity":2965,
+    "total_revenue":841215.0,
+    "avg_transaction_value":7444.38,
+    "revenue_per_product":841215.0,
+    "market_share":8.4
+  },
+  {
+    "category":"Immunity Boosters",
+    "subcategory":"Beverages",
+    "product_count":1,
+    "transaction_count":114,
+    "total_quantity":3031,
+    "total_revenue":800730.0,
+    "avg_transaction_value":7023.95,
+    "revenue_per_product":800730.0,
+    "market_share":8.0
+  },
+  {
+    "category":"Immunity Boosters",
+    "subcategory":"Minerals",
+    "product_count":1,
+    "transaction_count":118,
+    "total_quantity":2732,
+    "total_revenue":741080.5,
+    "avg_transaction_value":6280.34,
+    "revenue_per_product":741080.5,
+    "market_share":7.4
+  },
+  {
+    "category":"Vitamins & Supplements",
+    "subcategory":"Minerals",
+    "product_count":2,
+    "transaction_count":205,
+    "total_quantity":4958,
+    "total_revenue":682005.0,
+    "avg_transaction_value":3326.85,
+    "revenue_per_product":341002.5,
+    "market_share":6.81
+  },
+  {
+    "category":"Skin Care",
+    "subcategory":"Sun Protection",
+    "product_count":1,
+    "transaction_count":95,
+    "total_quantity":2546,
+    "total_revenue":645975.0,
+    "avg_transaction_value":6799.74,
+    "revenue_per_product":645975.0,
+    "market_share":6.45
+  },
+  {
+    "category":"Pain Relief",
+    "subcategory":"Topical",
+    "product_count":1,
+    "transaction_count":113,
+    "total_quantity":3161,
+    "total_revenue":626724.0,
+    "avg_transaction_value":5546.23,
+    "revenue_per_product":626724.0,
+    "market_share":6.26
+  },
+  {
+    "category":"Skin Care",
+    "subcategory":"Acne Treatment",
+    "product_count":1,
+    "transaction_count":98,
+    "total_quantity":2448,
+    "total_revenue":608725.0,
+    "avg_transaction_value":6211.48,
+    "revenue_per_product":608725.0,
+    "market_share":6.08
+  },
+  {
+    "category":"Skin Care",
+    "subcategory":"Creams",
+    "product_count":1,
+    "transaction_count":91,
+    "total_quantity":2328,
+    "total_revenue":559750.0,
+    "avg_transaction_value":6151.1,
+    "revenue_per_product":559750.0,
+    "market_share":5.59
+  },
+  {
+    "category":"Respiratory Health",
+    "subcategory":"Respiratory",
+    "product_count":1,
+    "transaction_count":86,
+    "total_quantity":2252,
+    "total_revenue":518052.0,
+    "avg_transaction_value":6023.86,
+    "revenue_per_product":518052.0,
+    "market_share":5.17
+  },
+  {
+    "category":"Digestive Health",
+    "subcategory":"Antacids",
+    "product_count":1,
+    "transaction_count":109,
+    "total_quantity":2988,
+    "total_revenue":516438.0,
+    "avg_transaction_value":4737.96,
+    "revenue_per_product":516438.0,
+    "market_share":5.16
+  },
+  {
+    "category":"Digestive Health",
+    "subcategory":"Probiotics",
+    "product_count":1,
+    "transaction_count":97,
+    "total_quantity":2560,
+    "total_revenue":387832.0,
+    "avg_transaction_value":3998.27,
+    "revenue_per_product":387832.0,
+    "market_share":3.87
+  },
+  {
+    "category":"Digestive Health",
+    "subcategory":"Enzymes",
+    "product_count":1,
+    "transaction_count":95,
+    "total_quantity":2381,
+    "total_revenue":383741.0,
+    "avg_transaction_value":4039.38,
+    "revenue_per_product":383741.0,
+    "market_share":3.83
+  },
+  {
+    "category":"Vitamins & Supplements",
+    "subcategory":"Multivitamin",
+    "product_count":1,
+    "transaction_count":106,
+    "total_quantity":2464,
+    "total_revenue":305220.5,
+    "avg_transaction_value":2879.44,
+    "revenue_per_product":305220.5,
+    "market_share":3.05
+  },
+  {
+    "category":"Vitamins & Supplements",
+    "subcategory":"Vitamin C",
+    "product_count":1,
+    "transaction_count":92,
+    "total_quantity":2500,
+    "total_revenue":261442.5,
+    "avg_transaction_value":2841.77,
+    "revenue_per_product":261442.5,
+    "market_share":2.61
+  },
+  {
+    "category":"Vitamins & Supplements",
+    "subcategory":"Vitamin D",
+    "product_count":1,
+    "transaction_count":88,
+    "total_quantity":2274,
+    "total_revenue":254784.0,
+    "avg_transaction_value":2895.27,
+    "revenue_per_product":254784.0,
+    "market_share":2.54
+  }
+]

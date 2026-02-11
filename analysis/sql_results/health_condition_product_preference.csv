@@ -1,0 +1,37 @@
+health_condition,category,customer_count,purchase_count,total_quantity,avg_purchases_per_customer
+Allergy,Vitamins & Supplements,54,85,458,1.0
+Thyroid,Vitamins & Supplements,52,85,493,1.0
+Hypertension,Vitamins & Supplements,51,79,457,1.0
+Diabetes,Vitamins & Supplements,48,76,382,1.0
+Asthma,Vitamins & Supplements,41,62,294,1.0
+Diabetes,Respiratory Health,40,54,288,1.0
+Allergy,Skin Care,38,53,286,1.0
+Arthritis,Vitamins & Supplements,38,53,318,1.0
+Diabetes,Pain Relief,37,51,276,1.0
+Hypertension,Digestive Health,36,51,264,1.0
+Hypertension,Immunity Boosters,37,51,299,1.0
+Allergy,Immunity Boosters,38,50,255,1.0
+Allergy,Respiratory Health,39,50,240,1.0
+Allergy,Digestive Health,35,49,302,1.0
+Thyroid,Respiratory Health,35,48,269,1.0
+Allergy,Pain Relief,37,45,231,1.0
+Arthritis,Respiratory Health,33,44,208,1.0
+Asthma,Immunity Boosters,33,44,232,1.0
+Thyroid,Pain Relief,32,44,215,1.0
+Thyroid,Skin Care,32,44,267,1.0
+Arthritis,Digestive Health,29,42,237,1.0
+Hypertension,Respiratory Health,31,42,229,1.0
+Arthritis,Immunity Boosters,31,40,216,1.0
+Arthritis,Skin Care,33,40,205,1.0
+Asthma,Respiratory Health,30,39,248,1.0
+Asthma,Skin Care,30,39,191,1.0
+Diabetes,Immunity Boosters,30,38,221,1.0
+Hypertension,Skin Care,29,38,202,1.0
+Diabetes,Digestive Health,27,37,194,1.0
+Hypertension,Pain Relief,27,37,207,1.0
+Thyroid,Digestive Health,29,37,172,1.0
+Arthritis,Pain Relief,28,35,201,1.0
+Asthma,Digestive Health,29,35,206,1.0
+Diabetes,Skin Care,23,29,155,1.0
+Thyroid,Immunity Boosters,22,29,156,1.0
+Asthma,Pain Relief,20,25,149,1.0

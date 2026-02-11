@@ -1,0 +1,911 @@
+{
+  "sales_by_category": [
+    {
+      "category": "Immunity Boosters",
+      "transactions": 345,
+      "units_sold": 8728,
+      "revenue": 2383025.5,
+      "avg_order_value": 6907.32,
+      "revenue_pct": 23.8
+    },
+    {
+      "category": "Skin Care",
+      "transactions": 284,
+      "units_sold": 7322,
+      "revenue": 1814450.0,
+      "avg_order_value": 6388.91,
+      "revenue_pct": 18.12
+    },
+    {
+      "category": "Pain Relief",
+      "transactions": 308,
+      "units_sold": 8063,
+      "revenue": 1537889.5,
+      "avg_order_value": 4993.15,
+      "revenue_pct": 15.36
+    },
+    {
+      "category": "Vitamins & Supplements",
+      "transactions": 491,
+      "units_sold": 12196,
+      "revenue": 1503452.0,
+      "avg_order_value": 3062.02,
+      "revenue_pct": 15.02
+    },
+    {
+      "category": "Respiratory Health",
+      "transactions": 271,
+      "units_sold": 6807,
+      "revenue": 1485697.5,
+      "avg_order_value": 5482.28,
+      "revenue_pct": 14.84
+    },
+    {
+      "category": "Digestive Health",
+      "transactions": 301,
+      "units_sold": 7929,
+      "revenue": 1288011.0,
+      "avg_order_value": 4279.11,
+      "revenue_pct": 12.86
+    }
+  ],
+  "monthly_trends": [
+    {
+      "month": "2023-01-01 00:00:00",
+      "transactions": 64,
+      "units_sold": 1825,
+      "revenue": 343041.0,
+      "avg_order_value": 5360.02
+    },
+    {
+      "month": "2023-02-01 00:00:00",
+      "transactions": 70,
+      "units_sold": 1851,
+      "revenue": 359240.5,
+      "avg_order_value": 5132.01
+    },
+    {
+      "month": "2023-03-01 00:00:00",
+      "transactions": 78,
+      "units_sold": 2042,
+      "revenue": 412720.5,
+      "avg_order_value": 5291.29
+    },
+    {
+      "month": "2023-04-01 00:00:00",
+      "transactions": 67,
+      "units_sold": 1556,
+      "revenue": 295974.0,
+      "avg_order_value": 4417.52
+    },
+    {
+      "month": "2023-05-01 00:00:00",
+      "transactions": 90,
+      "units_sold": 2435,
+      "revenue": 486265.5,
+      "avg_order_value": 5402.95
+    },
+    {
+      "month": "2023-06-01 00:00:00",
+      "transactions": 93,
+      "units_sold": 2353,
+      "revenue": 492653.0,
+      "avg_order_value": 5297.34
+    },
+    {
+      "month": "2023-07-01 00:00:00",
+      "transactions": 91,
+      "units_sold": 2257,
+      "revenue": 454654.5,
+      "avg_order_value": 4996.2
+    },
+    {
+      "month": "2023-08-01 00:00:00",
+      "transactions": 80,
+      "units_sold": 2075,
+      "revenue": 373669.5,
+      "avg_order_value": 4670.87
+    },
+    {
+      "month": "2023-09-01 00:00:00",
+      "transactions": 84,
+      "units_sold": 2076,
+      "revenue": 395605.5,
+      "avg_order_value": 4709.59
+    },
+    {
+      "month": "2023-10-01 00:00:00",
+      "transactions": 75,
+      "units_sold": 1916,
+      "revenue": 372885.0,
+      "avg_order_value": 4971.8
+    },
+    {
+      "month": "2023-11-01 00:00:00",
+      "transactions": 76,
+      "units_sold": 1972,
+      "revenue": 395361.0,
+      "avg_order_value": 5202.12
+    },
+    {
+      "month": "2023-12-01 00:00:00",
+      "transactions": 95,
+      "units_sold": 2178,
+      "revenue": 419423.0,
+      "avg_order_value": 4414.98
+    },
+    {
+      "month": "2024-01-01 00:00:00",
+      "transactions": 87,
+      "units_sold": 2174,
+      "revenue": 411441.0,
+      "avg_order_value": 4729.21
+    },
+    {
+      "month": "2024-02-01 00:00:00",
+      "transactions": 83,
+      "units_sold": 2234,
+      "revenue": 429745.0,
+      "avg_order_value": 5177.65
+    },
+    {
+      "month": "2024-03-01 00:00:00",
+      "transactions": 85,
+      "units_sold": 2418,
+      "revenue": 462183.5,
+      "avg_order_value": 5437.45
+    },
+    {
+      "month": "2024-04-01 00:00:00",
+      "transactions": 85,
+      "units_sold": 2071,
+      "revenue": 409396.5,
+      "avg_order_value": 4816.43
+    },
+    {
+      "month": "2024-05-01 00:00:00",
+      "transactions": 93,
+      "units_sold": 2066,
+      "revenue": 435058.5,
+      "avg_order_value": 4678.05
+    },
+    {
+      "month": "2024-06-01 00:00:00",
+      "transactions": 69,
+      "units_sold": 1916,
+      "revenue": 349792.5,
+      "avg_order_value": 5069.46
+    },
+    {
+      "month": "2024-07-01 00:00:00",
+      "transactions": 78,
+      "units_sold": 1996,
+      "revenue": 401763.0,
+      "avg_order_value": 5150.81
+    },
+    {
+      "month": "2024-08-01 00:00:00",
+      "transactions": 95,
+      "units_sold": 2337,
+      "revenue": 457942.5,
+      "avg_order_value": 4820.45
+    },
+    {
+      "month": "2024-09-01 00:00:00",
+      "transactions": 80,
+      "units_sold": 2356,
+      "revenue": 463846.5,
+      "avg_order_value": 5798.08
+    },
+    {
+      "month": "2024-10-01 00:00:00",
+      "transactions": 92,
+      "units_sold": 2095,
+      "revenue": 424031.5,
+      "avg_order_value": 4609.04
+    },
+    {
+      "month": "2024-11-01 00:00:00",
+      "transactions": 87,
+      "units_sold": 2012,
+      "revenue": 405275.5,
+      "avg_order_value": 4658.34
+    },
+    {
+      "month": "2024-12-01 00:00:00",
+      "transactions": 103,
+      "units_sold": 2834,
+      "revenue": 560556.5,
+      "avg_order_value": 5442.3
+    }
+  ],
+  "top_products": [
+    {
+      "product_id": 20,
+      "product_name": "Herbal Immunity Tea",
+      "category": "Immunity Boosters",
+      "times_sold": 113,
+      "total_quantity": 2965,
+      "total_revenue": 841215.0,
+      "avg_order_value": 7444.38
+    },
+    {
+      "product_id": 18,
+      "product_name": "Immunity Booster Drink",
+      "category": "Immunity Boosters",
+      "times_sold": 114,
+      "total_quantity": 3031,
+      "total_revenue": 800730.0,
+      "avg_order_value": 7023.95
+    },
+    {
+      "product_id": 19,
+      "product_name": "Zinc Supplement",
+      "category": "Immunity Boosters",
+      "times_sold": 118,
+      "total_quantity": 2732,
+      "total_revenue": 741080.5,
+      "avg_order_value": 6280.34
+    },
+    {
+      "product_id": 17,
+      "product_name": "Sunscreen SPF 50",
+      "category": "Skin Care",
+      "times_sold": 95,
+      "total_quantity": 2546,
+      "total_revenue": 645975.0,
+      "avg_order_value": 6799.74
+    },
+    {
+      "product_id": 11,
+      "product_name": "Muscle Relaxant Cream",
+      "category": "Pain Relief",
+      "times_sold": 113,
+      "total_quantity": 3161,
+      "total_revenue": 626724.0,
+      "avg_order_value": 5546.23
+    },
+    {
+      "product_id": 16,
+      "product_name": "Anti-Acne Gel",
+      "category": "Skin Care",
+      "times_sold": 98,
+      "total_quantity": 2448,
+      "total_revenue": 608725.0,
+      "avg_order_value": 6211.48
+    },
+    {
+      "product_id": 15,
+      "product_name": "Moisturizing Cream",
+      "category": "Skin Care",
+      "times_sold": 91,
+      "total_quantity": 2328,
+      "total_revenue": 559750.0,
+      "avg_order_value": 6151.1
+    },
+    {
+      "product_id": 13,
+      "product_name": "Throat Lozenges",
+      "category": "Respiratory Health",
+      "times_sold": 99,
+      "total_quantity": 2438,
+      "total_revenue": 525929.5,
+      "avg_order_value": 5312.42
+    },
+    {
+      "product_id": 14,
+      "product_name": "Asthma Inhaler",
+      "category": "Respiratory Health",
+      "times_sold": 86,
+      "total_quantity": 2252,
+      "total_revenue": 518052.0,
+      "avg_order_value": 6023.86
+    },
+    {
+      "product_id": 8,
+      "product_name": "Antacid Tablets",
+      "category": "Digestive Health",
+      "times_sold": 109,
+      "total_quantity": 2988,
+      "total_revenue": 516438.0,
+      "avg_order_value": 4737.96
+    }
+  ],
+  "retailer_performance": [
+    {
+      "retailer_id": 11,
+      "retailer_name": "Health World",
+      "retailer_type": "Independent",
+      "city": "Chennai",
+      "transactions": 139,
+      "units_sold": 3940,
+      "revenue": 807623.0,
+      "avg_order_value": 5810.24,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 13,
+      "retailer_name": "Organic Health",
+      "retailer_type": "Specialty",
+      "city": "Jaipur",
+      "transactions": 163,
+      "units_sold": 3932,
+      "revenue": 791965.5,
+      "avg_order_value": 4858.68,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 14,
+      "retailer_name": "Care Pharmacy",
+      "retailer_type": "Independent",
+      "city": "Lucknow",
+      "transactions": 141,
+      "units_sold": 3840,
+      "revenue": 746438.0,
+      "avg_order_value": 5293.89,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 1,
+      "retailer_name": "MediCare Pharmacy",
+      "retailer_type": "Chain Pharmacy",
+      "city": "Delhi",
+      "transactions": 146,
+      "units_sold": 3914,
+      "revenue": 739053.5,
+      "avg_order_value": 5062.01,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 5,
+      "retailer_name": "City Health Center",
+      "retailer_type": "Chain Pharmacy",
+      "city": "Mumbai",
+      "transactions": 133,
+      "units_sold": 3533,
+      "revenue": 715910.0,
+      "avg_order_value": 5382.78,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 3,
+      "retailer_name": "Wellness Hub",
+      "retailer_type": "Chain Pharmacy",
+      "city": "Bangalore",
+      "transactions": 136,
+      "units_sold": 3594,
+      "revenue": 714272.0,
+      "avg_order_value": 5252.0,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 8,
+      "retailer_name": "Wellness Express",
+      "retailer_type": "Independent",
+      "city": "Kolkata",
+      "transactions": 135,
+      "units_sold": 3526,
+      "revenue": 706749.0,
+      "avg_order_value": 5235.18,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 2,
+      "retailer_name": "Health Plus Store",
+      "retailer_type": "Independent",
+      "city": "Delhi",
+      "transactions": 148,
+      "units_sold": 3450,
+      "revenue": 692900.0,
+      "avg_order_value": 4681.76,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 12,
+      "retailer_name": "Wellness Center",
+      "retailer_type": "Chain Pharmacy",
+      "city": "Ahmedabad",
+      "transactions": 149,
+      "units_sold": 3640,
+      "revenue": 692898.5,
+      "avg_order_value": 4650.33,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 7,
+      "retailer_name": "Health Mart",
+      "retailer_type": "Chain Pharmacy",
+      "city": "Kolkata",
+      "transactions": 130,
+      "units_sold": 3215,
+      "revenue": 611456.0,
+      "avg_order_value": 4703.51,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 9,
+      "retailer_name": "Ayurveda Store",
+      "retailer_type": "Specialty",
+      "city": "Pune",
+      "transactions": 127,
+      "units_sold": 3163,
+      "revenue": 593549.5,
+      "avg_order_value": 4673.62,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 10,
+      "retailer_name": "Modern Pharmacy",
+      "retailer_type": "Chain Pharmacy",
+      "city": "Hyderabad",
+      "transactions": 104,
+      "units_sold": 2937,
+      "revenue": 589512.5,
+      "avg_order_value": 5668.39,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 4,
+      "retailer_name": "Local Chemist",
+      "retailer_type": "Independent",
+      "city": "Bangalore",
+      "transactions": 120,
+      "units_sold": 2956,
+      "revenue": 572717.0,
+      "avg_order_value": 4772.64,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 6,
+      "retailer_name": "Neighborhood Pharmacy",
+      "retailer_type": "Independent",
+      "city": "Mumbai",
+      "transactions": 125,
+      "units_sold": 2887,
+      "revenue": 536677.5,
+      "avg_order_value": 4293.42,
+      "product_variety": 20
+    },
+    {
+      "retailer_id": 15,
+      "retailer_name": "Health Store",
+      "retailer_type": "Chain Pharmacy",
+      "city": "Chandigarh",
+      "transactions": 104,
+      "units_sold": 2518,
+      "revenue": 500803.5,
+      "avg_order_value": 4815.42,
+      "product_variety": 20
+    }
+  ],
+  "regional_sales": [
+    {
+      "state": "Maharashtra",
+      "retailer_count": 3,
+      "transactions": 385,
+      "units_sold": 9583,
+      "revenue": 1846137.0,
+      "revenue_per_retailer": 615379.0,
+      "market_share": 18.44
+    },
+    {
+      "state": "Delhi",
+      "retailer_count": 2,
+      "transactions": 294,
+      "units_sold": 7364,
+      "revenue": 1431953.5,
+      "revenue_per_retailer": 715976.75,
+      "market_share": 14.3
+    },
+    {
+      "state": "West Bengal",
+      "retailer_count": 2,
+      "transactions": 265,
+      "units_sold": 6741,
+      "revenue": 1318205.0,
+      "revenue_per_retailer": 659102.5,
+      "market_share": 13.17
+    },
+    {
+      "state": "Karnataka",
+      "retailer_count": 2,
+      "transactions": 256,
+      "units_sold": 6550,
+      "revenue": 1286989.0,
+      "revenue_per_retailer": 643494.5,
+      "market_share": 12.85
+    },
+    {
+      "state": "Tamil Nadu",
+      "retailer_count": 1,
+      "transactions": 139,
+      "units_sold": 3940,
+      "revenue": 807623.0,
+      "revenue_per_retailer": 807623.0,
+      "market_share": 8.07
+    },
+    {
+      "state": "Rajasthan",
+      "retailer_count": 1,
+      "transactions": 163,
+      "units_sold": 3932,
+      "revenue": 791965.5,
+      "revenue_per_retailer": 791965.5,
+      "market_share": 7.91
+    },
+    {
+      "state": "Uttar Pradesh",
+      "retailer_count": 1,
+      "transactions": 141,
+      "units_sold": 3840,
+      "revenue": 746438.0,
+      "revenue_per_retailer": 746438.0,
+      "market_share": 7.46
+    },
+    {
+      "state": "Gujarat",
+      "retailer_count": 1,
+      "transactions": 149,
+      "units_sold": 3640,
+      "revenue": 692898.5,
+      "revenue_per_retailer": 692898.5,
+      "market_share": 6.92
+    },
+    {
+      "state": "Telangana",
+      "retailer_count": 1,
+      "transactions": 104,
+      "units_sold": 2937,
+      "revenue": 589512.5,
+      "revenue_per_retailer": 589512.5,
+      "market_share": 5.89
+    },
+    {
+      "state": "Chandigarh",
+      "retailer_count": 1,
+      "transactions": 104,
+      "units_sold": 2518,
+      "revenue": 500803.5,
+      "revenue_per_retailer": 500803.5,
+      "market_share": 5.0
+    }
+  ],
+  "customer_demographics": [
+    {
+      "age_group": "56-65",
+      "income_level": "High",
+      "customer_count": 31,
+      "total_purchases": 141,
+      "total_units": 752,
+      "avg_purchases_per_customer": 4.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "46-55",
+      "income_level": "Middle",
+      "customer_count": 35,
+      "total_purchases": 133,
+      "total_units": 770,
+      "avg_purchases_per_customer": 3.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "18-25",
+      "income_level": "Middle",
+      "customer_count": 32,
+      "total_purchases": 130,
+      "total_units": 725,
+      "avg_purchases_per_customer": 4.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "46-55",
+      "income_level": "Low",
+      "customer_count": 30,
+      "total_purchases": 122,
+      "total_units": 681,
+      "avg_purchases_per_customer": 4.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "46-55",
+      "income_level": "High",
+      "customer_count": 30,
+      "total_purchases": 121,
+      "total_units": 647,
+      "avg_purchases_per_customer": 4.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "36-45",
+      "income_level": "Low",
+      "customer_count": 31,
+      "total_purchases": 117,
+      "total_units": 586,
+      "avg_purchases_per_customer": 3.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "18-25",
+      "income_level": "Low",
+      "customer_count": 26,
+      "total_purchases": 112,
+      "total_units": 589,
+      "avg_purchases_per_customer": 4.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "36-45",
+      "income_level": "Middle",
+      "customer_count": 24,
+      "total_purchases": 112,
+      "total_units": 613,
+      "avg_purchases_per_customer": 4.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "56-65",
+      "income_level": "Low",
+      "customer_count": 28,
+      "total_purchases": 112,
+      "total_units": 607,
+      "avg_purchases_per_customer": 4.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "56-65",
+      "income_level": "Middle",
+      "customer_count": 29,
+      "total_purchases": 112,
+      "total_units": 603,
+      "avg_purchases_per_customer": 3.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "36-45",
+      "income_level": "High",
+      "customer_count": 31,
+      "total_purchases": 109,
+      "total_units": 594,
+      "avg_purchases_per_customer": 3.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "65+",
+      "income_level": "Middle",
+      "customer_count": 22,
+      "total_purchases": 108,
+      "total_units": 587,
+      "avg_purchases_per_customer": 4.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "26-35",
+      "income_level": "High",
+      "customer_count": 25,
+      "total_purchases": 101,
+      "total_units": 508,
+      "avg_purchases_per_customer": 4.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "18-25",
+      "income_level": "High",
+      "customer_count": 24,
+      "total_purchases": 99,
+      "total_units": 542,
+      "avg_purchases_per_customer": 4.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "26-35",
+      "income_level": "Low",
+      "customer_count": 26,
+      "total_purchases": 99,
+      "total_units": 561,
+      "avg_purchases_per_customer": 3.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "65+",
+      "income_level": "Low",
+      "customer_count": 26,
+      "total_purchases": 98,
+      "total_units": 499,
+      "avg_purchases_per_customer": 3.0,
+      "avg_units_per_purchase": 5.0
+    },
+    {
+      "age_group": "26-35",
+      "income_level": "Middle",
+      "customer_count": 25,
+      "total_purchases": 88,
+      "total_units": 547,
+      "avg_purchases_per_customer": 3.0,
+      "avg_units_per_purchase": 6.0
+    },
+    {
+      "age_group": "65+",
+      "income_level": "High",
+      "customer_count": 25,
+      "total_purchases": 86,
+      "total_units": 467,
+      "avg_purchases_per_customer": 3.0,
+      "avg_units_per_purchase": 5.0
+    }
+  ],
+  "inventory_status": [
+    {
+      "product_name": "Digestive Enzymes",
+      "category": "Digestive Health",
+      "retailer_locations": 15,
+      "total_stock": 5229,
+      "avg_stock_per_location": 348.6,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Cough Syrup",
+      "category": "Respiratory Health",
+      "retailer_locations": 15,
+      "total_stock": 4828,
+      "avg_stock_per_location": 321.87,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Vitamin C 500mg",
+      "category": "Vitamins & Supplements",
+      "retailer_locations": 15,
+      "total_stock": 4774,
+      "avg_stock_per_location": 318.27,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Sunscreen SPF 50",
+      "category": "Skin Care",
+      "retailer_locations": 15,
+      "total_stock": 4229,
+      "avg_stock_per_location": 281.93,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Multivitamin Daily",
+      "category": "Vitamins & Supplements",
+      "retailer_locations": 15,
+      "total_stock": 4096,
+      "avg_stock_per_location": 273.07,
+      "locations_below_reorder": 1
+    },
+    {
+      "product_name": "Herbal Immunity Tea",
+      "category": "Immunity Boosters",
+      "retailer_locations": 15,
+      "total_stock": 3997,
+      "avg_stock_per_location": 266.47,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Probiotic Capsules",
+      "category": "Digestive Health",
+      "retailer_locations": 15,
+      "total_stock": 3887,
+      "avg_stock_per_location": 259.13,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Throat Lozenges",
+      "category": "Respiratory Health",
+      "retailer_locations": 15,
+      "total_stock": 3865,
+      "avg_stock_per_location": 257.67,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Calcium Supplement",
+      "category": "Vitamins & Supplements",
+      "retailer_locations": 15,
+      "total_stock": 3858,
+      "avg_stock_per_location": 257.2,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Anti-Acne Gel",
+      "category": "Skin Care",
+      "retailer_locations": 15,
+      "total_stock": 3833,
+      "avg_stock_per_location": 255.53,
+      "locations_below_reorder": 1
+    },
+    {
+      "product_name": "Antacid Tablets",
+      "category": "Digestive Health",
+      "retailer_locations": 15,
+      "total_stock": 3591,
+      "avg_stock_per_location": 239.4,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Zinc Supplement",
+      "category": "Immunity Boosters",
+      "retailer_locations": 15,
+      "total_stock": 3425,
+      "avg_stock_per_location": 228.33,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Ibuprofen 400mg",
+      "category": "Pain Relief",
+      "retailer_locations": 15,
+      "total_stock": 3355,
+      "avg_stock_per_location": 223.67,
+      "locations_below_reorder": 1
+    },
+    {
+      "product_name": "Aspirin 75mg",
+      "category": "Pain Relief",
+      "retailer_locations": 15,
+      "total_stock": 3197,
+      "avg_stock_per_location": 213.13,
+      "locations_below_reorder": 1
+    },
+    {
+      "product_name": "Asthma Inhaler",
+      "category": "Respiratory Health",
+      "retailer_locations": 15,
+      "total_stock": 3135,
+      "avg_stock_per_location": 209.0,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Immunity Booster Drink",
+      "category": "Immunity Boosters",
+      "retailer_locations": 15,
+      "total_stock": 3101,
+      "avg_stock_per_location": 206.73,
+      "locations_below_reorder": 1
+    },
+    {
+      "product_name": "Iron Supplement",
+      "category": "Vitamins & Supplements",
+      "retailer_locations": 15,
+      "total_stock": 2990,
+      "avg_stock_per_location": 199.33,
+      "locations_below_reorder": 0
+    },
+    {
+      "product_name": "Muscle Relaxant Cream",
+      "category": "Pain Relief",
+      "retailer_locations": 15,
+      "total_stock": 2667,
+      "avg_stock_per_location": 177.8,
+      "locations_below_reorder": 2
+    },
+    {
+      "product_name": "Vitamin D3 1000IU",
+      "category": "Vitamins & Supplements",
+      "retailer_locations": 15,
+      "total_stock": 2582,
+      "avg_stock_per_location": 172.13,
+      "locations_below_reorder": 1
+    },
+    {
+      "product_name": "Moisturizing Cream",
+      "category": "Skin Care",
+      "retailer_locations": 15,
+      "total_stock": 2536,
+      "avg_stock_per_location": 169.07,
+      "locations_below_reorder": 1
+    }
+  ],
+  "statistical_summary": {
+    "total_transactions": 2000,
+    "total_units_sold": 51045,
+    "total_revenue": 10012525.5,
+    "avg_transaction_value": 5006.26,
+    "min_transaction_value": 110.0,
+    "max_transaction_value": 15000.0,
+    "active_retailers": 15,
+    "products_sold": 20,
+    "avg_discount_rate": 5.06,
+    "stdev_transaction_value": 3275.59
+  }
+}

@@ -1,0 +1,11 @@
+state,retailer_count,total_transactions,total_units,total_revenue,revenue_per_retailer,market_share_percentage
+Maharashtra,3,385,9583,1846137.0,615379.0,18.44
+Delhi,2,294,7364,1431953.5,715976.75,14.3
+West Bengal,2,265,6741,1318205.0,659102.5,13.17
+Karnataka,2,256,6550,1286989.0,643494.5,12.85
+Tamil Nadu,1,139,3940,807623.0,807623.0,8.07
+Rajasthan,1,163,3932,791965.5,791965.5,7.91
+Uttar Pradesh,1,141,3840,746438.0,746438.0,7.46
+Gujarat,1,149,3640,692898.5,692898.5,6.92
+Telangana,1,104,2937,589512.5,589512.5,5.89
+Chandigarh,1,104,2518,500803.5,500803.5,5.0

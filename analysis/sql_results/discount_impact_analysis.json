@@ -1,0 +1,34 @@
+[
+  {
+    "discount_range":"No Discount",
+    "transaction_count":974,
+    "units_sold":24494,
+    "revenue":5057730.0,
+    "avg_units_per_transaction":25.15,
+    "avg_transaction_value":5192.74
+  },
+  {
+    "discount_range":"1-5% Discount",
+    "transaction_count":373,
+    "units_sold":9283,
+    "revenue":1810728.5,
+    "avg_units_per_transaction":24.89,
+    "avg_transaction_value":4854.5
+  },
+  {
+    "discount_range":"6-10% Discount",
+    "transaction_count":310,
+    "units_sold":8185,
+    "revenue":1514736.0,
+    "avg_units_per_transaction":26.4,
+    "avg_transaction_value":4886.25
+  },
+  {
+    "discount_range":">10% Discount",
+    "transaction_count":343,
+    "units_sold":9083,
+    "revenue":1629331.0,
+    "avg_units_per_transaction":26.48,
+    "avg_transaction_value":4750.24
+  }
+]

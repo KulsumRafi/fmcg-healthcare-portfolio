@@ -1,0 +1,21 @@
+product_name,category,retailer_locations,total_stock,avg_stock_per_location,min_stock,max_stock,locations_below_reorder
+Digestive Enzymes,Digestive Health,15,5229,348.6,108,495,0
+Cough Syrup,Respiratory Health,15,4828,321.87,57,486,0
+Vitamin C 500mg,Vitamins & Supplements,15,4774,318.27,22,500,0
+Sunscreen SPF 50,Skin Care,15,4229,281.93,86,484,0
+Multivitamin Daily,Vitamins & Supplements,15,4096,273.07,11,446,1
+Herbal Immunity Tea,Immunity Boosters,15,3997,266.47,10,477,0
+Probiotic Capsules,Digestive Health,15,3887,259.13,95,494,0
+Throat Lozenges,Respiratory Health,15,3865,257.67,74,431,0
+Calcium Supplement,Vitamins & Supplements,15,3858,257.2,53,486,0
+Anti-Acne Gel,Skin Care,15,3833,255.53,18,492,1
+Antacid Tablets,Digestive Health,15,3591,239.4,40,487,0
+Zinc Supplement,Immunity Boosters,15,3425,228.33,82,387,0
+Ibuprofen 400mg,Pain Relief,15,3355,223.67,33,425,1
+Aspirin 75mg,Pain Relief,15,3197,213.13,41,481,1
+Asthma Inhaler,Respiratory Health,15,3135,209.0,32,488,0
+Immunity Booster Drink,Immunity Boosters,15,3101,206.73,20,490,1
+Iron Supplement,Vitamins & Supplements,15,2990,199.33,61,414,0
+Muscle Relaxant Cream,Pain Relief,15,2667,177.8,16,500,2
+Vitamin D3 1000IU,Vitamins & Supplements,15,2582,172.13,10,495,1
+Moisturizing Cream,Skin Care,15,2536,169.07,16,482,1

@@ -1,0 +1,182 @@
+[
+  {
+    "product_id":1,
+    "product_name":"Vitamin C 500mg",
+    "category":"Vitamins & Supplements",
+    "total_sold":37500,
+    "current_stock":439208,
+    "turnover_ratio":0.0,
+    "revenue_generated":3921637.5
+  },
+  {
+    "product_id":2,
+    "product_name":"Vitamin D3 1000IU",
+    "category":"Vitamins & Supplements",
+    "total_sold":34110,
+    "current_stock":227216,
+    "turnover_ratio":0.0,
+    "revenue_generated":3821760.0
+  },
+  {
+    "product_id":3,
+    "product_name":"Multivitamin Daily",
+    "category":"Vitamins & Supplements",
+    "total_sold":36960,
+    "current_stock":434176,
+    "turnover_ratio":0.0,
+    "revenue_generated":4578307.5
+  },
+  {
+    "product_id":4,
+    "product_name":"Calcium Supplement",
+    "category":"Vitamins & Supplements",
+    "total_sold":39090,
+    "current_stock":405090,
+    "turnover_ratio":0.0,
+    "revenue_generated":5214825.0
+  },
+  {
+    "product_id":5,
+    "product_name":"Iron Supplement",
+    "category":"Vitamins & Supplements",
+    "total_sold":35280,
+    "current_stock":299000,
+    "turnover_ratio":0.0,
+    "revenue_generated":5015250.0
+  },
+  {
+    "product_id":6,
+    "product_name":"Probiotic Capsules",
+    "category":"Digestive Health",
+    "total_sold":38400,
+    "current_stock":377039,
+    "turnover_ratio":0.0,
+    "revenue_generated":5817480.0
+  },
+  {
+    "product_id":7,
+    "product_name":"Digestive Enzymes",
+    "category":"Digestive Health",
+    "total_sold":35715,
+    "current_stock":496755,
+    "turnover_ratio":0.0,
+    "revenue_generated":5756115.0
+  },
+  {
+    "product_id":8,
+    "product_name":"Antacid Tablets",
+    "category":"Digestive Health",
+    "total_sold":44820,
+    "current_stock":391419,
+    "turnover_ratio":0.0,
+    "revenue_generated":7746570.0
+  },
+  {
+    "product_id":9,
+    "product_name":"Ibuprofen 400mg",
+    "category":"Pain Relief",
+    "total_sold":32880,
+    "current_stock":301950,
+    "turnover_ratio":0.0,
+    "revenue_generated":5943532.5
+  },
+  {
+    "product_id":10,
+    "product_name":"Aspirin 75mg",
+    "category":"Pain Relief",
+    "total_sold":40650,
+    "current_stock":335685,
+    "turnover_ratio":0.0,
+    "revenue_generated":7723950.0
+  },
+  {
+    "product_id":11,
+    "product_name":"Muscle Relaxant Cream",
+    "category":"Pain Relief",
+    "total_sold":47415,
+    "current_stock":301371,
+    "turnover_ratio":0.0,
+    "revenue_generated":9400860.0
+  },
+  {
+    "product_id":12,
+    "product_name":"Cough Syrup",
+    "category":"Respiratory Health",
+    "total_sold":31755,
+    "current_stock":415208,
+    "turnover_ratio":0.0,
+    "revenue_generated":6625740.0
+  },
+  {
+    "product_id":13,
+    "product_name":"Throat Lozenges",
+    "category":"Respiratory Health",
+    "total_sold":36570,
+    "current_stock":382635,
+    "turnover_ratio":0.0,
+    "revenue_generated":7888942.5
+  },
+  {
+    "product_id":14,
+    "product_name":"Asthma Inhaler",
+    "category":"Respiratory Health",
+    "total_sold":33780,
+    "current_stock":269610,
+    "turnover_ratio":0.0,
+    "revenue_generated":7770780.0
+  },
+  {
+    "product_id":15,
+    "product_name":"Moisturizing Cream",
+    "category":"Skin Care",
+    "total_sold":34920,
+    "current_stock":230776,
+    "turnover_ratio":0.0,
+    "revenue_generated":8396250.0
+  },
+  {
+    "product_id":16,
+    "product_name":"Anti-Acne Gel",
+    "category":"Skin Care",
+    "total_sold":36720,
+    "current_stock":375634,
+    "turnover_ratio":0.0,
+    "revenue_generated":9130875.0
+  },
+  {
+    "product_id":17,
+    "product_name":"Sunscreen SPF 50",
+    "category":"Skin Care",
+    "total_sold":38190,
+    "current_stock":401755,
+    "turnover_ratio":0.0,
+    "revenue_generated":9689625.0
+  },
+  {
+    "product_id":18,
+    "product_name":"Immunity Booster Drink",
+    "category":"Immunity Boosters",
+    "total_sold":45465,
+    "current_stock":353514,
+    "turnover_ratio":0.0,
+    "revenue_generated":12010950.0
+  },
+  {
+    "product_id":19,
+    "product_name":"Zinc Supplement",
+    "category":"Immunity Boosters",
+    "total_sold":40980,
+    "current_stock":404150,
+    "turnover_ratio":0.0,
+    "revenue_generated":11116207.5
+  },
+  {
+    "product_id":20,
+    "product_name":"Herbal Immunity Tea",
+    "category":"Immunity Boosters",
+    "total_sold":44475,
+    "current_stock":451661,
+    "turnover_ratio":0.0,
+    "revenue_generated":12618225.0
+  }
+]

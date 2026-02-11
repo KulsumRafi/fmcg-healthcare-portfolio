@@ -1,0 +1,5 @@
+discount_range,transaction_count,units_sold,revenue,avg_units_per_transaction,avg_transaction_value
+No Discount,974,24494,5057730.0,25.15,5192.74
+1-5% Discount,373,9283,1810728.5,24.89,4854.5
+6-10% Discount,310,8185,1514736.0,26.4,4886.25
+>10% Discount,343,9083,1629331.0,26.48,4750.24

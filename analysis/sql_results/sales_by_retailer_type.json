@@ -1,0 +1,29 @@
+[
+  {
+    "retailer_type":"Chain Pharmacy",
+    "retailer_count":7,
+    "total_transactions":902,
+    "total_units":23351,
+    "total_revenue":4563906.0,
+    "avg_transaction_value":5059.76,
+    "revenue_per_retailer":651986.5699999999
+  },
+  {
+    "retailer_type":"Independent",
+    "retailer_count":6,
+    "total_transactions":808,
+    "total_units":20599,
+    "total_revenue":4063104.5,
+    "avg_transaction_value":5028.59,
+    "revenue_per_retailer":677184.08
+  },
+  {
+    "retailer_type":"Specialty",
+    "retailer_count":2,
+    "total_transactions":290,
+    "total_units":7095,
+    "total_revenue":1385515.0,
+    "avg_transaction_value":4777.64,
+    "revenue_per_retailer":692757.5
+  }
+]

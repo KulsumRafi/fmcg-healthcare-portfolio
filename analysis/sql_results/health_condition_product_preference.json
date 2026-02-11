@@ -1,0 +1,290 @@
+[
+  {
+    "health_condition":"Allergy",
+    "category":"Vitamins & Supplements",
+    "customer_count":54,
+    "purchase_count":85,
+    "total_quantity":458,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Thyroid",
+    "category":"Vitamins & Supplements",
+    "customer_count":52,
+    "purchase_count":85,
+    "total_quantity":493,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Hypertension",
+    "category":"Vitamins & Supplements",
+    "customer_count":51,
+    "purchase_count":79,
+    "total_quantity":457,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Diabetes",
+    "category":"Vitamins & Supplements",
+    "customer_count":48,
+    "purchase_count":76,
+    "total_quantity":382,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Asthma",
+    "category":"Vitamins & Supplements",
+    "customer_count":41,
+    "purchase_count":62,
+    "total_quantity":294,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Diabetes",
+    "category":"Respiratory Health",
+    "customer_count":40,
+    "purchase_count":54,
+    "total_quantity":288,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Allergy",
+    "category":"Skin Care",
+    "customer_count":38,
+    "purchase_count":53,
+    "total_quantity":286,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Arthritis",
+    "category":"Vitamins & Supplements",
+    "customer_count":38,
+    "purchase_count":53,
+    "total_quantity":318,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Diabetes",
+    "category":"Pain Relief",
+    "customer_count":37,
+    "purchase_count":51,
+    "total_quantity":276,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Hypertension",
+    "category":"Digestive Health",
+    "customer_count":36,
+    "purchase_count":51,
+    "total_quantity":264,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Hypertension",
+    "category":"Immunity Boosters",
+    "customer_count":37,
+    "purchase_count":51,
+    "total_quantity":299,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Allergy",
+    "category":"Immunity Boosters",
+    "customer_count":38,
+    "purchase_count":50,
+    "total_quantity":255,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Allergy",
+    "category":"Respiratory Health",
+    "customer_count":39,
+    "purchase_count":50,
+    "total_quantity":240,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Allergy",
+    "category":"Digestive Health",
+    "customer_count":35,
+    "purchase_count":49,
+    "total_quantity":302,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Thyroid",
+    "category":"Respiratory Health",
+    "customer_count":35,
+    "purchase_count":48,
+    "total_quantity":269,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Allergy",
+    "category":"Pain Relief",
+    "customer_count":37,
+    "purchase_count":45,
+    "total_quantity":231,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Arthritis",
+    "category":"Respiratory Health",
+    "customer_count":33,
+    "purchase_count":44,
+    "total_quantity":208,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Asthma",
+    "category":"Immunity Boosters",
+    "customer_count":33,
+    "purchase_count":44,
+    "total_quantity":232,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Thyroid",
+    "category":"Pain Relief",
+    "customer_count":32,
+    "purchase_count":44,
+    "total_quantity":215,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Thyroid",
+    "category":"Skin Care",
+    "customer_count":32,
+    "purchase_count":44,
+    "total_quantity":267,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Arthritis",
+    "category":"Digestive Health",
+    "customer_count":29,
+    "purchase_count":42,
+    "total_quantity":237,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Hypertension",
+    "category":"Respiratory Health",
+    "customer_count":31,
+    "purchase_count":42,
+    "total_quantity":229,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Arthritis",
+    "category":"Immunity Boosters",
+    "customer_count":31,
+    "purchase_count":40,
+    "total_quantity":216,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Arthritis",
+    "category":"Skin Care",
+    "customer_count":33,
+    "purchase_count":40,
+    "total_quantity":205,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Asthma",
+    "category":"Respiratory Health",
+    "customer_count":30,
+    "purchase_count":39,
+    "total_quantity":248,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Asthma",
+    "category":"Skin Care",
+    "customer_count":30,
+    "purchase_count":39,
+    "total_quantity":191,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Diabetes",
+    "category":"Immunity Boosters",
+    "customer_count":30,
+    "purchase_count":38,
+    "total_quantity":221,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Hypertension",
+    "category":"Skin Care",
+    "customer_count":29,
+    "purchase_count":38,
+    "total_quantity":202,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Diabetes",
+    "category":"Digestive Health",
+    "customer_count":27,
+    "purchase_count":37,
+    "total_quantity":194,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Hypertension",
+    "category":"Pain Relief",
+    "customer_count":27,
+    "purchase_count":37,
+    "total_quantity":207,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Thyroid",
+    "category":"Digestive Health",
+    "customer_count":29,
+    "purchase_count":37,
+    "total_quantity":172,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Arthritis",
+    "category":"Pain Relief",
+    "customer_count":28,
+    "purchase_count":35,
+    "total_quantity":201,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Asthma",
+    "category":"Digestive Health",
+    "customer_count":29,
+    "purchase_count":35,
+    "total_quantity":206,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Diabetes",
+    "category":"Skin Care",
+    "customer_count":23,
+    "purchase_count":29,
+    "total_quantity":155,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Thyroid",
+    "category":"Immunity Boosters",
+    "customer_count":22,
+    "purchase_count":29,
+    "total_quantity":156,
+    "avg_purchases_per_customer":1.0
+  },
+  {
+    "health_condition":"Asthma",
+    "category":"Pain Relief",
+    "customer_count":20,
+    "purchase_count":25,
+    "total_quantity":149,
+    "avg_purchases_per_customer":1.0
+  }
+]

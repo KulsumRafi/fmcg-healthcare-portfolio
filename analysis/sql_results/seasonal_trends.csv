@@ -1,0 +1,25 @@
+quarter,category,transaction_count,units_sold,revenue,avg_order_value
+Q1,Immunity Boosters,81,1925,528514.0,6524.86
+Q1,Pain Relief,97,2646,504841.0,5204.55
+Q1,Skin Care,56,1565,384068.0,6858.36
+Q1,Vitamins & Supplements,101,2853,348675.0,3452.23
+Q1,Digestive Health,79,2116,340544.5,4310.69
+Q1,Respiratory Health,53,1439,311729.0,5881.68
+Q2,Immunity Boosters,85,2298,626550.0,7371.18
+Q2,Skin Care,84,2091,517130.0,6156.31
+Q2,Vitamins & Supplements,123,2961,366034.5,2975.89
+Q2,Pain Relief,71,1849,352606.0,4966.28
+Q2,Respiratory Health,66,1625,351049.0,5318.92
+Q2,Digestive Health,68,1573,255770.5,3761.33
+Q3,Immunity Boosters,85,2045,552499.0,6499.99
+Q3,Skin Care,79,2005,498776.0,6313.62
+Q3,Vitamins & Supplements,134,3445,429958.5,3208.65
+Q3,Respiratory Health,72,1705,375690.5,5217.92
+Q3,Digestive Health,75,2224,364548.0,4860.64
+Q3,Pain Relief,63,1673,326009.5,5174.75
+Q4,Immunity Boosters,94,2460,675462.5,7185.77
+Q4,Respiratory Health,80,2038,447229.0,5590.36
+Q4,Skin Care,65,1661,414476.0,6376.55
+Q4,Vitamins & Supplements,133,2937,358784.0,2697.62
+Q4,Pain Relief,77,1895,354433.0,4603.03
+Q4,Digestive Health,79,2016,327148.0,4141.11

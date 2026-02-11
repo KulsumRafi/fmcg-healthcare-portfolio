@@ -1,0 +1,50 @@
+[
+  {
+    "category":"Immunity Boosters",
+    "transactions":345,
+    "units_sold":8728,
+    "revenue":2383025.5,
+    "avg_order_value":6907.32,
+    "revenue_pct":23.8
+  },
+  {
+    "category":"Skin Care",
+    "transactions":284,
+    "units_sold":7322,
+    "revenue":1814450.0,
+    "avg_order_value":6388.91,
+    "revenue_pct":18.12
+  },
+  {
+    "category":"Pain Relief",
+    "transactions":308,
+    "units_sold":8063,
+    "revenue":1537889.5,
+    "avg_order_value":4993.15,
+    "revenue_pct":15.36
+  },
+  {
+    "category":"Vitamins & Supplements",
+    "transactions":491,
+    "units_sold":12196,
+    "revenue":1503452.0,
+    "avg_order_value":3062.02,
+    "revenue_pct":15.02
+  },
+  {
+    "category":"Respiratory Health",
+    "transactions":271,
+    "units_sold":6807,
+    "revenue":1485697.5,
+    "avg_order_value":5482.28,
+    "revenue_pct":14.84
+  },
+  {
+    "category":"Digestive Health",
+    "transactions":301,
+    "units_sold":7929,
+    "revenue":1288011.0,
+    "avg_order_value":4279.11,
+    "revenue_pct":12.86
+  }
+]

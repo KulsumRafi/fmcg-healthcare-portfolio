@@ -1,0 +1,194 @@
+[
+  {
+    "quarter":"Q1",
+    "category":"Immunity Boosters",
+    "transaction_count":81,
+    "units_sold":1925,
+    "revenue":528514.0,
+    "avg_order_value":6524.86
+  },
+  {
+    "quarter":"Q1",
+    "category":"Pain Relief",
+    "transaction_count":97,
+    "units_sold":2646,
+    "revenue":504841.0,
+    "avg_order_value":5204.55
+  },
+  {
+    "quarter":"Q1",
+    "category":"Skin Care",
+    "transaction_count":56,
+    "units_sold":1565,
+    "revenue":384068.0,
+    "avg_order_value":6858.36
+  },
+  {
+    "quarter":"Q1",
+    "category":"Vitamins & Supplements",
+    "transaction_count":101,
+    "units_sold":2853,
+    "revenue":348675.0,
+    "avg_order_value":3452.23
+  },
+  {
+    "quarter":"Q1",
+    "category":"Digestive Health",
+    "transaction_count":79,
+    "units_sold":2116,
+    "revenue":340544.5,
+    "avg_order_value":4310.69
+  },
+  {
+    "quarter":"Q1",
+    "category":"Respiratory Health",
+    "transaction_count":53,
+    "units_sold":1439,
+    "revenue":311729.0,
+    "avg_order_value":5881.68
+  },
+  {
+    "quarter":"Q2",
+    "category":"Immunity Boosters",
+    "transaction_count":85,
+    "units_sold":2298,
+    "revenue":626550.0,
+    "avg_order_value":7371.18
+  },
+  {
+    "quarter":"Q2",
+    "category":"Skin Care",
+    "transaction_count":84,
+    "units_sold":2091,
+    "revenue":517130.0,
+    "avg_order_value":6156.31
+  },
+  {
+    "quarter":"Q2",
+    "category":"Vitamins & Supplements",
+    "transaction_count":123,
+    "units_sold":2961,
+    "revenue":366034.5,
+    "avg_order_value":2975.89
+  },
+  {
+    "quarter":"Q2",
+    "category":"Pain Relief",
+    "transaction_count":71,
+    "units_sold":1849,
+    "revenue":352606.0,
+    "avg_order_value":4966.28
+  },
+  {
+    "quarter":"Q2",
+    "category":"Respiratory Health",
+    "transaction_count":66,
+    "units_sold":1625,
+    "revenue":351049.0,
+    "avg_order_value":5318.92
+  },
+  {
+    "quarter":"Q2",
+    "category":"Digestive Health",
+    "transaction_count":68,
+    "units_sold":1573,
+    "revenue":255770.5,
+    "avg_order_value":3761.33
+  },
+  {
+    "quarter":"Q3",
+    "category":"Immunity Boosters",
+    "transaction_count":85,
+    "units_sold":2045,
+    "revenue":552499.0,
+    "avg_order_value":6499.99
+  },
+  {
+    "quarter":"Q3",
+    "category":"Skin Care",
+    "transaction_count":79,
+    "units_sold":2005,
+    "revenue":498776.0,
+    "avg_order_value":6313.62
+  },
+  {
+    "quarter":"Q3",
+    "category":"Vitamins & Supplements",
+    "transaction_count":134,
+    "units_sold":3445,
+    "revenue":429958.5,
+    "avg_order_value":3208.65
+  },
+  {
+    "quarter":"Q3",
+    "category":"Respiratory Health",
+    "transaction_count":72,
+    "units_sold":1705,
+    "revenue":375690.5,
+    "avg_order_value":5217.92
+  },
+  {
+    "quarter":"Q3",
+    "category":"Digestive Health",
+    "transaction_count":75,
+    "units_sold":2224,
+    "revenue":364548.0,
+    "avg_order_value":4860.64
+  },
+  {
+    "quarter":"Q3",
+    "category":"Pain Relief",
+    "transaction_count":63,
+    "units_sold":1673,
+    "revenue":326009.5,
+    "avg_order_value":5174.75
+  },
+  {
+    "quarter":"Q4",
+    "category":"Immunity Boosters",
+    "transaction_count":94,
+    "units_sold":2460,
+    "revenue":675462.5,
+    "avg_order_value":7185.77
+  },
+  {
+    "quarter":"Q4",
+    "category":"Respiratory Health",
+    "transaction_count":80,
+    "units_sold":2038,
+    "revenue":447229.0,
+    "avg_order_value":5590.36
+  },
+  {
+    "quarter":"Q4",
+    "category":"Skin Care",
+    "transaction_count":65,
+    "units_sold":1661,
+    "revenue":414476.0,
+    "avg_order_value":6376.55
+  },
+  {
+    "quarter":"Q4",
+    "category":"Vitamins & Supplements",
+    "transaction_count":133,
+    "units_sold":2937,
+    "revenue":358784.0,
+    "avg_order_value":2697.62
+  },
+  {
+    "quarter":"Q4",
+    "category":"Pain Relief",
+    "transaction_count":77,
+    "units_sold":1895,
+    "revenue":354433.0,
+    "avg_order_value":4603.03
+  },
+  {
+    "quarter":"Q4",
+    "category":"Digestive Health",
+    "transaction_count":79,
+    "units_sold":2016,
+    "revenue":327148.0,
+    "avg_order_value":4141.11
+  }
+]

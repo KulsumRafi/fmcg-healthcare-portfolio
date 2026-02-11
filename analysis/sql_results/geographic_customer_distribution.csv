@@ -1,0 +1,11 @@
+city,customer_count,total_transactions,total_units_purchased,avg_transactions_per_customer,unique_products_purchased
+Ahmedabad,64,276,1522,4.0,20
+Chennai,60,241,1338,4.0,20
+Jaipur,57,226,1192,3.0,20
+Mumbai,49,199,1114,4.0,20
+Kolkata,51,195,1023,3.0,20
+Pune,43,183,933,4.0,20
+Delhi,43,183,973,4.0,20
+Hyderabad,41,172,981,4.0,19
+Bangalore,43,166,918,3.0,20
+Lucknow,49,159,884,3.0,20

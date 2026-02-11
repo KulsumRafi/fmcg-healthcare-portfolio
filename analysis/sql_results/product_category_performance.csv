@@ -1,0 +1,18 @@
+category,subcategory,product_count,transaction_count,total_quantity,total_revenue,avg_transaction_value,revenue_per_product,market_share
+Respiratory Health,Cough & Cold,2,185,4555,967645.5,5230.52,483822.75,9.66
+Pain Relief,Analgesics,2,195,4902,911165.5,4672.64,455582.75,9.1
+Immunity Boosters,Herbal,1,113,2965,841215.0,7444.38,841215.0,8.4
+Immunity Boosters,Beverages,1,114,3031,800730.0,7023.95,800730.0,8.0
+Immunity Boosters,Minerals,1,118,2732,741080.5,6280.34,741080.5,7.4
+Vitamins & Supplements,Minerals,2,205,4958,682005.0,3326.85,341002.5,6.81
+Skin Care,Sun Protection,1,95,2546,645975.0,6799.74,645975.0,6.45
+Pain Relief,Topical,1,113,3161,626724.0,5546.23,626724.0,6.26
+Skin Care,Acne Treatment,1,98,2448,608725.0,6211.48,608725.0,6.08
+Skin Care,Creams,1,91,2328,559750.0,6151.1,559750.0,5.59
+Respiratory Health,Respiratory,1,86,2252,518052.0,6023.86,518052.0,5.17
+Digestive Health,Antacids,1,109,2988,516438.0,4737.96,516438.0,5.16
+Digestive Health,Probiotics,1,97,2560,387832.0,3998.27,387832.0,3.87
+Digestive Health,Enzymes,1,95,2381,383741.0,4039.38,383741.0,3.83
+Vitamins & Supplements,Multivitamin,1,106,2464,305220.5,2879.44,305220.5,3.05
+Vitamins & Supplements,Vitamin C,1,92,2500,261442.5,2841.77,261442.5,2.61
+Vitamins & Supplements,Vitamin D,1,88,2274,254784.0,2895.27,254784.0,2.54

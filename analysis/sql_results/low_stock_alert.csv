@@ -1,0 +1,10 @@
+inventory_id,product_name,category,retailer_name,city,stock_quantity,reorder_level,units_needed,unit_price,reorder_cost
+142,Vitamin D3 1000IU,Vitamins & Supplements,Wellness Express,Kolkata,10,46,36,200.0,7200.0
+15,Moisturizing Cream,Skin Care,MediCare Pharmacy,Delhi,16,48,32,280.0,8960.0
+71,Muscle Relaxant Cream,Pain Relief,Local Chemist,Bangalore,16,48,32,220.0,7040.0
+156,Anti-Acne Gel,Skin Care,Wellness Express,Kolkata,18,39,21,200.0,4200.0
+109,Ibuprofen 400mg,Pain Relief,Neighborhood Pharmacy,Mumbai,33,41,8,80.0,640.0
+110,Aspirin 75mg,Pain Relief,Neighborhood Pharmacy,Mumbai,41,49,8,90.0,720.0
+283,Multivitamin Daily,Vitamins & Supplements,Health Store,Chandigarh,11,18,7,250.0,1750.0
+151,Muscle Relaxant Cream,Pain Relief,Wellness Express,Kolkata,39,45,6,220.0,1320.0
+178,Immunity Booster Drink,Immunity Boosters,Ayurveda Store,Pune,20,24,4,180.0,720.0

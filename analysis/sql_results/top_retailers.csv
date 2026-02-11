@@ -1,0 +1,16 @@
+retailer_id,retailer_name,retailer_type,city,distributor_name,transaction_count,total_units,total_revenue,avg_order_value,unique_products_sold
+11,Health World,Independent,Chennai,Regional Pharma,139,3940,807623.0,5810.24,20
+13,Organic Health,Specialty,Jaipur,Central Supply Chain,163,3932,791965.5,4858.68,20
+14,Care Pharmacy,Independent,Lucknow,Metro Distribution,141,3840,746438.0,5293.89,20
+1,MediCare Pharmacy,Chain Pharmacy,Delhi,Metro Distribution,146,3914,739053.5,5062.01,20
+5,City Health Center,Chain Pharmacy,Mumbai,Western Wellness,133,3533,715910.0,5382.78,20
+3,Wellness Hub,Chain Pharmacy,Bangalore,Regional Pharma,136,3594,714272.0,5252.0,20
+8,Wellness Express,Independent,Kolkata,Eastern Healthcare,135,3526,706749.0,5235.18,20
+2,Health Plus Store,Independent,Delhi,Metro Distribution,148,3450,692900.0,4681.76,20
+12,Wellness Center,Chain Pharmacy,Ahmedabad,Central Supply Chain,149,3640,692898.5,4650.33,20
+7,Health Mart,Chain Pharmacy,Kolkata,Eastern Healthcare,130,3215,611456.0,4703.51,20
+9,Ayurveda Store,Specialty,Pune,National Distribution,127,3163,593549.5,4673.62,20
+10,Modern Pharmacy,Chain Pharmacy,Hyderabad,Regional Pharma,104,2937,589512.5,5668.39,20
+4,Local Chemist,Independent,Bangalore,Regional Pharma,120,2956,572717.0,4772.64,20
+6,Neighborhood Pharmacy,Independent,Mumbai,Western Wellness,125,2887,536677.5,4293.42,20
+15,Health Store,Chain Pharmacy,Chandigarh,Metro Distribution,104,2518,500803.5,4815.42,20
