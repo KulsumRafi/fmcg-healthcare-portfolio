@@ -1,0 +1,342 @@
+{
+  "timestamp": "2026-02-11T04:44:07.928379",
+  "forecast_period": "Q1 2025 (Next Quarter)",
+  "forecast_horizon": "3 months",
+  "revenue_forecast": {
+    "forecast_dates": [
+      "2024-12",
+      "2025-01",
+      "2025-03"
+    ],
+    "forecast_values": [
+      549575.1603638895,
+      559370.4663545453,
+      550633.0970872233
+    ],
+    "lower_bound": [
+      424582.82587549224,
+      391508.8192278462,
+      342179.15804614354
+    ],
+    "upper_bound": [
+      674567.4948522869,
+      727232.1134812444,
+      759087.036128303
+    ],
+    "mae": 74229.75970590288,
+    "rmse": 96647.82607662918,
+    "model_info": {
+      "model_type": "ARIMA(1,1,1)",
+      "historical_avg": 417188.5625,
+      "historical_std": 54848.04086221474,
+      "last_value": 560556.5
+    }
+  },
+  "inventory_forecast": {
+    "11": {
+      "product_name": "Muscle Relaxant Cream",
+      "category": "Pain Relief",
+      "forecast_units": [
+        132.34414469890436,
+        131.7651867787883,
+        131.73373062029196
+      ],
+      "avg_monthly_demand": 131.70833333333334,
+      "reorder_point": 200.44240977209034,
+      "safety_stock": 113.41122612394905,
+      "total_required": 509.2542882219337
+    },
+    "18": {
+      "product_name": "Immunity Booster Drink",
+      "category": "Immunity Boosters",
+      "forecast_units": [
+        110.78294356675309,
+        122.08024622183817,
+        125.06342214757727
+      ],
+      "avg_monthly_demand": 126.29166666666667,
+      "reorder_point": 181.88204290712358,
+      "safety_stock": 91.7241207967539,
+      "total_required": 449.6507327329224
+    },
+    "8": {
+      "product_name": "Antacid Tablets",
+      "category": "Digestive Health",
+      "forecast_units": [
+        126.20108447650324,
+        124.6156739338424,
+        124.57860067729585
+      ],
+      "avg_monthly_demand": 124.5,
+      "reorder_point": 178.7486558973277,
+      "safety_stock": 89.51028223059069,
+      "total_required": 464.9056413182322
+    },
+    "20": {
+      "product_name": "Herbal Immunity Tea",
+      "category": "Immunity Boosters",
+      "forecast_units": [
+        135.80826837369378,
+        136.20588726381746,
+        136.20334511267214
+      ],
+      "avg_monthly_demand": 134.77272727272728,
+      "reorder_point": 185.29898670841067,
+      "safety_stock": 83.36832806887756,
+      "total_required": 491.5858288190609
+    },
+    "19": {
+      "product_name": "Zinc Supplement",
+      "category": "Immunity Boosters",
+      "forecast_units": [
+        148.71210477538432,
+        167.1446396120067,
+        157.2356516651647
+      ],
+      "avg_monthly_demand": 118.78260869565217,
+      "reorder_point": 180.11346944414672,
+      "safety_stock": 101.195920235016,
+      "total_required": 574.2883162875718
+    },
+    "10": {
+      "product_name": "Aspirin 75mg",
+      "category": "Pain Relief",
+      "forecast_units": [
+        124.70990250706043,
+        130.8331017958968,
+        130.24069364650205
+      ],
+      "avg_monthly_demand": 112.91666666666667,
+      "reorder_point": 173.17508009490828,
+      "safety_stock": 99.42638215659863,
+      "total_required": 485.21008010605794
+    },
+    "4": {
+      "product_name": "Calcium Supplement",
+      "category": "Vitamins & Supplements",
+      "forecast_units": [
+        109.79492913415103,
+        107.37702012124885,
+        108.0417536177329
+      ],
+      "avg_monthly_demand": 108.58333333333333,
+      "reorder_point": 167.78842648886814,
+      "safety_stock": 97.68840370663244,
+      "total_required": 422.90210657976525
+    },
+    "6": {
+      "product_name": "Probiotic Capsules",
+      "category": "Digestive Health",
+      "forecast_units": [
+        118.55713891505519,
+        111.0348409000648,
+        107.79082220664255
+      ],
+      "avg_monthly_demand": 106.66666666666667,
+      "reorder_point": 169.86520743744362,
+      "safety_stock": 104.27759227178196,
+      "total_required": 441.66039429354447
+    },
+    "17": {
+      "product_name": "Sunscreen SPF 50",
+      "category": "Skin Care",
+      "forecast_units": [
+        133.6274814971837,
+        144.348768549239,
+        139.81843404421895
+      ],
+      "avg_monthly_demand": 106.08333333333333,
+      "reorder_point": 161.49912280007487,
+      "safety_stock": 91.43605262012353,
+      "total_required": 509.2307367107652
+    },
+    "1": {
+      "product_name": "Vitamin C 500mg",
+      "category": "Vitamins & Supplements",
+      "forecast_units": [
+        107.81254956077964,
+        104.21014422316867,
+        104.43079992188203
+      ],
+      "avg_monthly_demand": 104.16666666666667,
+      "reorder_point": 167.36784457411466,
+      "safety_stock": 104.28194354728915,
+      "total_required": 420.73543725311947
+    }
+  },
+  "category_forecast": {
+    "Vitamins & Supplements": {
+      "forecast_revenue": [
+        62337.52619138388,
+        63326.60938535142,
+        63221.4566666236
+      ],
+      "total_forecast": 188885.5922433589,
+      "avg_monthly": 62643.833333333336,
+      "growth_rate": 0.5076808535870175
+    },
+    "Digestive Health": {
+      "forecast_revenue": [
+        65937.21400886192,
+        62921.40715700668,
+        62694.48251799519
+      ],
+      "total_forecast": 191553.10368386377,
+      "avg_monthly": 53667.125,
+      "growth_rate": 18.976066933505244
+    },
+    "Pain Relief": {
+      "forecast_revenue": [
+        76729.28673238958,
+        87605.83509156213,
+        77812.61387938177
+      ],
+      "total_forecast": 242147.73570333348,
+      "avg_monthly": 64078.729166666664,
+      "growth_rate": 25.963659003242295
+    },
+    "Respiratory Health": {
+      "forecast_revenue": [
+        59775.58367578455,
+        59205.76531251579,
+        59124.81299616902
+      ],
+      "total_forecast": 178106.16198446936,
+      "avg_monthly": 61904.0625,
+      "growth_rate": -4.0955984730569375
+    },
+    "Skin Care": {
+      "forecast_revenue": [
+        92457.75430831562,
+        94607.34821119772,
+        94123.28399070071
+      ],
+      "total_forecast": 281188.38651021407,
+      "avg_monthly": 75602.08333333333,
+      "growth_rate": 23.977353582722742
+    },
+    "Immunity Boosters": {
+      "forecast_revenue": [
+        109899.84266469881,
+        108853.13885837593,
+        108793.59487675683
+      ],
+      "total_forecast": 327546.57639983157,
+      "avg_monthly": 99292.72916666667,
+      "growth_rate": 9.959906480172052
+    }
+  },
+  "quarterly_metrics": {
+    "forecast_quarter_revenue": 1659578.7238056583,
+    "forecast_monthly_avg": 553192.9079352195,
+    "last_quarter_revenue": 1389863.5,
+    "qoq_change_percent": 19.405878620861568,
+    "historical_quarters": [
+      {
+        "quarter": "2023Q1",
+        "revenue": 1115002.0,
+        "units_sold": 5718,
+        "transaction_count": 212,
+        "avg_order_value": 5261.103743131868
+      },
+      {
+        "quarter": "2023Q2",
+        "revenue": 1274892.5,
+        "units_sold": 6344,
+        "transaction_count": 250,
+        "avg_order_value": 5039.272158027069
+      },
+      {
+        "quarter": "2023Q3",
+        "revenue": 1223929.5,
+        "units_sold": 6408,
+        "transaction_count": 255,
+        "avg_order_value": 4792.220444139194
+      },
+      {
+        "quarter": "2023Q4",
+        "revenue": 1187669.0,
+        "units_sold": 6066,
+        "transaction_count": 246,
+        "avg_order_value": 4862.965789473685
+      },
+      {
+        "quarter": "2024Q1",
+        "revenue": 1303369.5,
+        "units_sold": 6826,
+        "transaction_count": 255,
+        "avg_order_value": 5114.770146712611
+      },
+      {
+        "quarter": "2024Q2",
+        "revenue": 1194247.5,
+        "units_sold": 6053,
+        "transaction_count": 247,
+        "avg_order_value": 4854.644773533537
+      },
+      {
+        "quarter": "2024Q3",
+        "revenue": 1323552.0,
+        "units_sold": 6689,
+        "transaction_count": 253,
+        "avg_order_value": 5256.445436909581
+      },
+      {
+        "quarter": "2024Q4",
+        "revenue": 1389863.5,
+        "units_sold": 6941,
+        "transaction_count": 282,
+        "avg_order_value": 4903.224413480962
+      }
+    ]
+  },
+  "summary": {
+    "total_forecast_revenue": 1659578.7238056583,
+    "confidence_level": "95%",
+    "model_accuracy": {
+      "mae": 74229.75970590288,
+      "rmse": 96647.82607662918
+    },
+    "top_forecast_categories": [
+      [
+        "Immunity Boosters",
+        {
+          "forecast_revenue": [
+            109899.84266469881,
+            108853.13885837593,
+            108793.59487675683
+          ],
+          "total_forecast": 327546.57639983157,
+          "avg_monthly": 99292.72916666667,
+          "growth_rate": 9.959906480172052
+        }
+      ],
+      [
+        "Skin Care",
+        {
+          "forecast_revenue": [
+            92457.75430831562,
+            94607.34821119772,
+            94123.28399070071
+          ],
+          "total_forecast": 281188.38651021407,
+          "avg_monthly": 75602.08333333333,
+          "growth_rate": 23.977353582722742
+        }
+      ],
+      [
+        "Pain Relief",
+        {
+          "forecast_revenue": [
+            76729.28673238958,
+            87605.83509156213,
+            77812.61387938177
+          ],
+          "total_forecast": 242147.73570333348,
+          "avg_monthly": 64078.729166666664,
+          "growth_rate": 25.963659003242295
+        }
+      ]
+    ]
+  }
+}

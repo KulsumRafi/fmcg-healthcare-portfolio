@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { TrendingUp, TrendingDown, BarChart3, Users, Package, MapPin } from 'lucide-react';
+import Navigation from '@/components/Navigation';
 import {
   loadAnalysisInsights,
   getBusinessKPIs,
@@ -71,6 +72,7 @@ export default function Dashboard() {
 
   return (
     <div className="min-h-screen bg-background">
+      <Navigation />
       {/* Header */}
       <div className="border-b bg-card">
         <div className="container py-6">
